@@ -1,4 +1,4 @@
-Hi Hello this my Second Commit....!!!!!!!!!!!!
+Third commit....!
 {  
 //function to print the spiral pattern  
 public static void printPattern(int n)  
